@@ -1,5 +1,9 @@
 # Playbook
 
+## APIs
+
+- GraphQL first (federation).  You can abstract into other services as needed.
+
 ## Infrastructure
 
 Principles:
